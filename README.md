@@ -3,7 +3,7 @@
 Bu Araç  Sayesinde  İnstagram'da Ban Yemeden Takipten Çıkabilirsiniz.
 
 =====================================================================
-### KULLANIMI
+### TERMİNAL İÇİN KULLANILIŞ
 
 • pip install -r requirements.txt
 
